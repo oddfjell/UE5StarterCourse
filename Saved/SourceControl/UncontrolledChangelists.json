@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/StarterContent/Maps/PostProcessEx.umap",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/MaterialEx.umap",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/FirstMaterial.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement_basecolor.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement_normal.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement_Roughness.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/MI_SpanishPavement_Inst.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/M_SpanishPavement.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/M_MasterMaterial.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_BaseColor.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_Metallic.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_MetallicRoughnessOcclusion.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_Normal.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_Roughness.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/M_MaskEx.uasset"
+			]
+		}
+	]
+}
