@@ -15,7 +15,6 @@
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement_Roughness.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/SpanishPavement.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/MI_SpanishPavement_Inst.uasset",
-				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/M_SpanishPavement.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/M_MasterMaterial.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_BaseColor.uasset",
@@ -24,7 +23,9 @@
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_Normal.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/WoodCrate_Roughness.uasset",
 				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset",
-				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/M_MaskEx.uasset"
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/WoodenCrate/M_MaskEx.uasset",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/LightingExamples/Maps/ArchVizRoom.umap",
+				"C:/Users/annma/UnrealProjects/FirstProject/Content/MyStuff/M_SpanishPavement.uasset"
 			]
 		}
 	]
